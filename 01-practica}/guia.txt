@@ -1,0 +1,32 @@
+Descargar UBUNTU, VIRTUALBOX Y GIT PASO A PASO
+
+Para descargar VirtualBOX:
+   1.- Accedes a la pagina oficial de VirtualBOX
+   2.- una vez aqui solo clickeas en "descarga"y despues seleccionas el port para tu OS
+   3.- al finalizar la descarga ejecutas el programa como admin. y clickeas "siguiente"
+   y despues "instalar" y despues "finalizar"
+
+   Para descargar UBUNTU:
+   
+    1.- Accedes a la pagina oficial de ubuntu y descargas la version que requieras (tiene que ser .ISO)
+    
+    Para crear una virtualBOX ubuntu:
+
+    1.- abres VIRTUALBOX previamente ya instalado
+    2.- clickeas donde dice "nuevo"
+    3.- te aparecera una pestaña donde tendras que configurar tu nueva maquina virtual
+    y tendras que seleccionar la imagen ISO de ubuntu previamente ya descargada tambien
+    asi como el tipo (LINUX)
+    4.-clickeas "siguiente y te aparecera otra ventana donde tndras que seleccionar la memoria base y numero 
+    de procesadores que deseas para tu nueva maquina virtual
+    (se recomienda al menos un tercio de la memoria para un buen funcionamiento)
+    5.-clickearas siguiente una vez mas y en esta ventana nueva te pedira que ingreses la cantidad de espacio que quieres que tenga tu maquina virtual
+    6,-finalmente clickeas "terminar" y tu maquina virtual estara lista
+
+    Para descargar GIT:
+
+    1.-ACCEDES A la pagina oficial de git (o bien en VSC, en el apartado de codigo fuente puedes acceder a la pagina oficial de GIT)
+    2.-te vas al apartado de descargas y seleccionas el port para tu procesador intel o AMD 
+    3.- una vez descargado el instalador lo ejecutas como admin. aceptas las licencias y configuras el lugar donde quieras que se guarde tu git (el directorio por defecto esta bien)
+    4.- despues de eso clickeas next hasta que llegues a la parte de la instalacion(puede tardar algunos minutos)
+    5.- ya tendrias git instalado correctamente en tu equipo!
