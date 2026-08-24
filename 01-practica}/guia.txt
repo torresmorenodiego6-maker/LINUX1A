@@ -30,3 +30,19 @@ Para descargar VirtualBOX:
     3.- una vez descargado el instalador lo ejecutas como admin. aceptas las licencias y configuras el lugar donde quieras que se guarde tu git (el directorio por defecto esta bien)
     4.- despues de eso clickeas next hasta que llegues a la parte de la instalacion(puede tardar algunos minutos)
     5.- ya tendrias git instalado correctamente en tu equipo!
+
+Subir repositorio
+   
+   1.- nos vamos a la parte de source control 
+   2.-veremos los archivos que han sufrido cambios de manera local
+   3.- para hacer que estos se vean reflejados en la nube, es ir a apartado de changes y en el archivo clickear la opcion de +
+   4.-una vez hagamos eso nuestro archivo subirla  a stated changes, ahi solo tendremos que escribir un mensaje y darle a commit
+   5.-en el apartado de mensaje se colocara ya sea CREATE seguido del nombre del archivo,UPDATE O DELETE para llevar un mejor control de cambios 
+   6.-en este caso usaremos CREATE seguido del nombre del archivo
+   7.-al ser la primera vez, dara un error de credenciales por lo tanto, abriremos la terminal para solucionarlo 
+   8.- ahi, escribimos lo siguiente:
+             git config --global user.name "NOMBRE APELLIDO"
+             git config --global user.email "CORREO ELECTRONICO"
+   9.- Una vez ejecutados estos comandos ya podemos darle commit sin problemas
+   10.- le damos A SYNC y aceptamos la alerta que saldra, empezara a sincronizar 
+   11.- finalizado este proceso  podemos comprobar que el repositorio ha sido subido correctamente 
